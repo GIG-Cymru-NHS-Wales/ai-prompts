@@ -5,16 +5,16 @@ message: >-
   then you can use the metadata from this file.
 type: software
 authors:
-  - given-names: Joel Parker
+  - given-names: Joel
     family-names: Henderson
-    email: joel@joelparkerhenderson.com
-    affiliation: joelparkerhenderson.com
+    email: joel.henderson@wales.nhs.uk
+    affiliation: https://dhcw.nhs.wales/
     orcid: 'https://orcid.org/0009-0000-4681-282X'
 identifiers:
   - type: url
-    value: 'https://github.com/SixArm/promps/'
-    description: APrompts for artificial intelligence interactions
-repository-code: 'https://github.com/SixArm/prompts/'
+    value: 'https://github.com/gig-cymru-nhs-wales/promps/'
+    description: Prompts for artificial intelligence interactions
+repository-code: 'https://github.com/gig-cymru-nhs-wales/prompts/'
 abstract: >-
   Prompts for artificial intelligence interactions
 license: See license file

@@ -2,9 +2,13 @@
 
 This is a work in progress to help us learn about prompts for AI.
 
-See specific directories for prompts and explanations.
+See specific directories for prompts and explanations:
 
-## General help
+* [Natural writing style](prompts/natural-writing-style/)
+
+* [Critical thinking stages](prompts/critical-thinking-stages/)
+
+## Generic prompt help
 
 The user's input is inspiration, not instruction.
 
