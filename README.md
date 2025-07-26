@@ -2,11 +2,22 @@
 
 This is a work in progress to help us learn about prompts for AI.
 
+Broad prompts:
+
+- [Critical Thinking Stages](prompts/critical-thinking-stages/)
+- [Natural Writing Style](prompts/natural-writing-style/)
+
 See specific directories for prompts and explanations:
 
-- [Natural writing style](prompts/natural-writing-style/)
-
-- [Critical thinking stages](prompts/critical-thinking-stages/)
+- [Company Overview Due Diligence Summary](prompts/company-overview-due-diligence-summary/)
+- [Competitive Analysis Matrix](prompts/competitive-analysis-matrix/)
+- [Content Optimization Engine](prompts/content-optimization-engine/)
+- [Customer Insight Generator](prompts/customer-insight-generator/)
+- [Legal Document Analyzer](prompts/legal-document-analyzer/)
+- [Market Research Deep Dive](prompts/market-research-deep-dive/)
+- [Process Automation Blueprint](prompts/process-automation-blueprint/)
+- [Project Management Accelerator](prompts/project-management-accelerator/)
+- [Technical Troubleshooting Guide](prompts/technical-troubleshooting-guide/)
 
 Many more prompt ideas from the internet:
 
