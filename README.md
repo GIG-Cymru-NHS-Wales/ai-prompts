@@ -9,9 +9,10 @@ Broad prompts:
 
 Strategic-tactical perspectives:
 
-- [Wheel of Problem-Solving](prompts/wheel-of-problem-solving/)
-- [DMAIC improvement cycle](prompts/dmaic-improvement-cycle/)
+- [SMART criteria](prompts/smart-critera/)
 - [OODA Loop action plan](prompts/ooda-loop-action-plan/)
+- [DMAIC improvement cycle](prompts/dmaic-improvement-cycle/)
+- [Wheel of Problem-Solving](prompts/wheel-of-problem-solving/)
 
 See specific directories for prompts and explanations:
 
