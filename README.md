@@ -27,6 +27,7 @@ See specific directories for prompts and explanations:
 - [Legal Document Analyzer](prompts/legal-document-analyzer/)
 - [Market Research Deep Dive](prompts/market-research-deep-dive/)
 - [Process Automation Blueprint](prompts/process-automation-blueprint/)
+- [Product Strategy Accelerator](prompts/product-strategy-accelerator/)
 - [Project Management Accelerator](prompts/project-management-accelerator/)
 - [Software Design Document](prompts/software-design-document/)
 - [Technical Troubleshooting Guide](prompts/technical-troubleshooting-guide/)
